@@ -1,0 +1,27 @@
+# These headers are for sharing images to CodePen.io
+[[headers]]
+		for = "/images/*"
+		[headers.values]
+		Access-Control-Allow-Origin = "*"
+[[headers]]
+		for = "/audio/*"
+		[headers.values]
+		Access-Control-Allow-Origin = "*"
+[[headers]]
+		for = "/idle-sprite/*"
+		[headers.values]
+		Access-Control-Allow-Origin = "*"
+[[headers]]
+		for = "/jump-sprite/*"
+		[headers.values]
+		Access-Control-Allow-Origin = "*"
+[[headers]]
+		for = "/celebration-sprite/*"
+		[headers.values]
+		Access-Control-Allow-Origin = "*"
+[build]
+	functions = "./functions"
+[functions]
+	included_files = ["git-contribution-data/**"]
+[functions."update-git-contributions-cron"]
+	schedule = "@daily"

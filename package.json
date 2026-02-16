@@ -1,35 +1,34 @@
 {
-  "name": "my_portfolio",
-  "version": "0.1.0",
-  "private": true,
+  "name": "elliottprogrammer.com",
+  "version": "1.0.0",
+  "description": "Elliottprogrammer.com - Dev Portfolio Website of Bryan Elliott (elliottprogrammer), Senior Full-stack Software Engineer.",
+  "homepage": "https://github.com/elliottprogrammer/elliottprogrammer.com#readme",
+  "bugs": {
+    "url": "https://github.com/elliottprogrammer/elliottprogrammer.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elliottprogrammer/elliottprogrammer.com.git"
+  },
+  "license": "UNLICENSED",
+  "author": "Bryan Elliott <bryan@elliottprogrammer.com>",
+  "type": "commonjs",
+  "main": "index.html",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint"
+    "start": "netlify dev"
   },
   "dependencies": {
-    "@react-three/drei": "^10.7.7",
-    "@react-three/fiber": "^9.5.0",
-    "@react-three/postprocessing": "^3.0.4",
-    "@studio-freight/lenis": "^1.0.42",
-    "framer-motion": "^12.34.0",
-    "gsap": "^3.14.2",
-    "lenis": "^1.3.17",
-    "next": "16.1.6",
-    "react": "19.2.3",
-    "react-dom": "19.2.3",
-    "three": "^0.182.0"
+    "@dqbd/tiktoken": "^1.0.22",
+    "@langchain/openai": "^1.2.0",
+    "@netlify/blobs": "^10.5.0",
+    "@netlify/functions": "^5.1.2",
+    "@supabase/supabase-js": "^2.89.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "@types/three": "^0.182.0",
-    "eslint": "^9",
-    "eslint-config-next": "16.1.6",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "@langchain/classic": "^1.0.7",
+    "@langchain/community": "^1.1.1",
+    "@langchain/core": "^1.1.8",
+    "@langchain/textsplitters": "^1.0.1",
+    "dotenv": "^16.4.5"
   }
 }
