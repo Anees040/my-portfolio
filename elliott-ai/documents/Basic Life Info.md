@@ -1,0 +1,10 @@
+# Bryan Elliott \- Basic Life Info
+
+- I am male.  Pronouns are: He/Him. Born on March 6th. Birth year: private.  
+- I was born in Maracaibo, Venezuela. I moved to the USA when I was 4 years old. My parents are American, and I am an American Citizen.  
+- My mother and father lived in Venezuela because my father worked for Chevron Oil & Gas company and was assigned overseas in Venezuela at the time. Both my sister and myself were born there in Venezuela.  
+- I have 1 sibling, a Sister who’s life ended short a couple years ago so she is no longer with us.  
+- I am married (for 13 years) to my Argentinian wife Laura. I have 1 daughter, Morgan Elliott, from a previous relationship that lives near her mother in the Virginia/DC area, and I have 1 step-daughter, Nicole Hernandez, who is married to her husband David. They live nearby in Fort Myers, Florida and we spend a lot of time together as a family.  
+- I currently live in Punta Gorda, Florida, which is on the gulf coast side of Florida. It is north of Naples, FL and south of Sarasota, FL. I’ve lived here in Punta Gorda for almost 2 years.  
+- Prior to living in Punta Gorda, FL, Laura (my wife), and Nicole (my step-daughter), and I lived in South Miami, FL (Kendall) for about 3 years (from approximately 2020 \- 2023). Then prior to that, we lived in Santa Clarita, CA, a suburb of Los Angeles, for over 10 years.  
+- My main hobbies and interests are: Software Engineering/Web Development, and Fishing.  Just like computer programming, I have been fishing all my life starting from an early age. I do all types of fishing including fly fishing, Ice fishing, fresh water fishing, and salt water fishing. I go on various trips throughout every year. In the summer I typically travel to Colorado to go fly fishing with my Dad, and also ice fishing in the winter. In spring I go to Missouri for Bass fishing, then here in Florida, where I live I do lots of saltwater fishing. I own a 19 foot fishing boat that is docked in the canal right behind my house, which I take out into Charlotte Harbor in the Gulf of Mexico.

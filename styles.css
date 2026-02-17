@@ -1805,7 +1805,6 @@ img.legend {
     top: 19vh;
     left: 50%;
     transform: translateX(-50%);
-    will-change: transform;
     
 }
 
@@ -2381,7 +2380,7 @@ img.legend {
 }
 
 /* Elliott-AI chat */
-#anees-ai {
+#elliott-ai {
     padding: 80px 0;
     background: radial-gradient(circle at 15% 20%, rgba(255,187,0,0.08), transparent 25%), radial-gradient(circle at 80% 0%, rgba(0,255,255,0.06), transparent 30%), #0c1018;
     color: #e7edf5;
@@ -2396,7 +2395,7 @@ img.legend {
     transition: all 0.3s ease-out;  
 }
 
-.anees-ai-grid {
+.elliott-ai-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 32px;
@@ -2837,11 +2836,11 @@ section#footer-top {
         top: 21%;
         left: 83%;
     }
-    .anees-ai-grid {
+    .elliott-ai-grid {
         grid-template-columns: 1fr;
         gap: 60px
     }
-    #anees-ai {
+    #elliott-ai {
         padding: 60px 0;
     }
 }

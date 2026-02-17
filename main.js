@@ -51,7 +51,7 @@
             ScrollTrigger.normalizeScroll(true);
             const shouldUseTextMotionPath = (getDeviceType() === 'desktop' || getDeviceType() === 'tablet');
 
-            initAneesAIChat();
+            initElliottAIChat();
 
             // Mobile Nav Menu
             const navMenuButton = document.querySelector('.nav-menu-button');
@@ -257,7 +257,7 @@
                 };
                 
                 writer1 = new Typewriter(target, options);
-                writer1.type("anees-portfolio.com").start();
+                writer1.type("elliottprogrammer.com").start();
 
                 showAtomizer();
 
@@ -1391,49 +1391,32 @@
                 //markers: true,
             });
 
-            // Experience section - Horizontal scroll with globe rotation
-            const experienceWrapper = document.getElementById('experience-wrapper');
-            const scrollContainer = experienceWrapper.querySelector('.scroll-container');
-            const worldContainer = scrollContainer.querySelector('.world-container');
-            
-            // Calculate the total horizontal distance to scroll
-            // The scroll container's width based on the world container position
-            const horizontalDistance = 1200; // pixels to scroll horizontally
-            
             const earthTimeline = gsap.timeline({
                 scrollTrigger: {
                     trigger: '#experience-wrapper',
                     start: 'top top',
-                    end: '+=3000',
+                    end: '+=2000',
                     scrub: true,
                     pin: true,
-                    ...((getDeviceType() === 'mobile' || getDeviceType() === 'phone') && { anticipatePin: 1 }),
+                    ...(getDeviceType === 'mobile' || getDeviceType() === 'phone') && { anticipatePin: 1 },
                     //markers: true,
                 },
+                
             });
             
-            // Animate world container horizontal scroll
-            earthTimeline.to(worldContainer, {
-                x: -horizontalDistance,
-                ease: "none",
-            }, 0); // Run at the same time as rotation below
-            
-            // Animate globe rotation - correlates with horizontal movement
+
             earthTimeline.to('.rotating-element', {
-                rotation: -540, // 3 full rotations as you scroll through the 4 positions
+                rotation: -140,
                 ease: "none",
-            }, 0); // Run at the same time as horizontal scroll
+                repeat: 0,
+            });
 
             const spritesheetWidth = 1848;
             const frameCount = 14;
             const frameWidth = spritesheetWidth / frameCount;
 
-            // Animate sprite walking across the globe
-            gsap.set('.elliott-sprite', { backgroundPosition: '0px 0px' });
-            earthTimeline.fromTo('.elliott-sprite', {
-                backgroundPosition: '0px 0px',
-            }, {
-                backgroundPosition: `${-(frameCount - 1) * frameWidth}px 0px`,
+            earthTimeline.to('.elliott-sprite', {
+                backgroundPosition: `0px 0px`,
                 ease: `steps(${frameCount - 1})`,
                 duration: .03,
                 repeat: 16,
@@ -1469,7 +1452,7 @@
             });
 
             // Place random circles in the background of the Elliott AI section
-            const container = document.getElementById('anees-ai');
+            const container = document.getElementById('elliott-ai');
             const numCircles = 60;
             const minSize = 2;
             const maxSize = 10;
@@ -1862,7 +1845,7 @@
                 });
               };
               
-              document.querySelector('#contact .form-container form[name="anees-contact"]').addEventListener("submit", handleSubmit);
+              document.querySelector('#contact .form-container form[name="elliottprogrammer-contact"]').addEventListener("submit", handleSubmit);
         });
    
         function gitSliderStart() {   
@@ -2233,12 +2216,12 @@
             });
         }
 
-        function initAneesAIChat() {
-            const form = document.getElementById('anees-ai-form');
-            const input = document.getElementById('anees-ai-input');
+        function initElliottAIChat() {
+            const form = document.getElementById('elliott-ai-form');
+            const input = document.getElementById('elliott-ai-input');
             const exampleQuestions = document.querySelectorAll('#ai-example-questions button')
-            const log = document.getElementById('anees-ai-log');
-            const submit = document.getElementById('anees-ai-submit');
+            const log = document.getElementById('elliott-ai-log');
+            const submit = document.getElementById('elliott-ai-submit');
 
             if (!form || !input || !log || !submit) {
                 return;
@@ -2280,7 +2263,7 @@
                 let buffer = '';
 
                 try {
-                    const response = await fetch('/.netlify/functions/anees-ai', {
+                    const response = await fetch('/.netlify/functions/elliott-ai', {
                         method: 'POST',
                         headers: {
                             'Content-Type': 'application/json',
