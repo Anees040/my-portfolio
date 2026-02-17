@@ -1391,32 +1391,46 @@
                 //markers: true,
             });
 
+            // Experience section - Horizontal scroll with globe rotation
+            const experienceWrapper = document.getElementById('experience-wrapper');
+            const scrollContainer = experienceWrapper.querySelector('.scroll-container');
+            const worldContainer = scrollContainer.querySelector('.world-container');
+            
+            // Calculate the total horizontal distance to scroll
+            // The scroll container's width based on the world container position
+            const horizontalDistance = 1200; // pixels to scroll horizontally
+            
             const earthTimeline = gsap.timeline({
                 scrollTrigger: {
                     trigger: '#experience-wrapper',
                     start: 'top top',
-                    end: '+=2000',
+                    end: '+=3000',
                     scrub: true,
                     pin: true,
                     ...(getDeviceType === 'mobile' || getDeviceType() === 'phone') && { anticipatePin: 1 },
                     //markers: true,
                 },
-                
             });
             
-
-            earthTimeline.to('.rotating-element', {
-                rotation: -140,
+            // Animate world container horizontal scroll
+            earthTimeline.to(worldContainer, {
+                x: -horizontalDistance,
                 ease: "none",
-                repeat: 0,
-            });
+            }, 0); // Run at the same time as rotation below
+            
+            // Animate globe rotation - correlates with horizontal movement
+            earthTimeline.to('.rotating-element', {
+                rotation: -540, // 3 full rotations as you scroll through the 4 positions
+                ease: "none",
+            }, 0); // Run at the same time as horizontal scroll
 
             const spritesheetWidth = 1848;
             const frameCount = 14;
             const frameWidth = spritesheetWidth / frameCount;
 
+            // Animate sprite walking across the globe
             earthTimeline.to('.elliott-sprite', {
-                backgroundPosition: `0px 0px`,
+                backgroundPosition: `${-(frameCount - 1) * frameWidth}px 0px`,
                 ease: `steps(${frameCount - 1})`,
                 duration: .03,
                 repeat: 16,
