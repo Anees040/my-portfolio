@@ -1,0 +1,5685 @@
+{
+	"frames": [
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.000.png",
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.001.png",
+			"frame": {
+				"x": 333,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.002.png",
+			"frame": {
+				"x": 665,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.003.png",
+			"frame": {
+				"x": 997,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.004.png",
+			"frame": {
+				"x": 1329,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.005.png",
+			"frame": {
+				"x": 1661,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.006.png",
+			"frame": {
+				"x": 1993,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.007.png",
+			"frame": {
+				"x": 2325,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.008.png",
+			"frame": {
+				"x": 2657,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.009.png",
+			"frame": {
+				"x": 2989,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.010.png",
+			"frame": {
+				"x": 3321,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.011.png",
+			"frame": {
+				"x": 3653,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.012.png",
+			"frame": {
+				"x": 3985,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.013.png",
+			"frame": {
+				"x": 4317,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.014.png",
+			"frame": {
+				"x": 4649,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.015.png",
+			"frame": {
+				"x": 4981,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.016.png",
+			"frame": {
+				"x": 5313,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.017.png",
+			"frame": {
+				"x": 5645,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.018.png",
+			"frame": {
+				"x": 5977,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.019.png",
+			"frame": {
+				"x": 6309,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.020.png",
+			"frame": {
+				"x": 1,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.021.png",
+			"frame": {
+				"x": 333,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.022.png",
+			"frame": {
+				"x": 665,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.023.png",
+			"frame": {
+				"x": 997,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.024.png",
+			"frame": {
+				"x": 1329,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.025.png",
+			"frame": {
+				"x": 1661,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.026.png",
+			"frame": {
+				"x": 1993,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.027.png",
+			"frame": {
+				"x": 2325,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.028.png",
+			"frame": {
+				"x": 2657,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.029.png",
+			"frame": {
+				"x": 2989,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.030.png",
+			"frame": {
+				"x": 3321,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.031.png",
+			"frame": {
+				"x": 3653,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.032.png",
+			"frame": {
+				"x": 3985,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.033.png",
+			"frame": {
+				"x": 4317,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.034.png",
+			"frame": {
+				"x": 4649,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.035.png",
+			"frame": {
+				"x": 4981,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.036.png",
+			"frame": {
+				"x": 5313,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.037.png",
+			"frame": {
+				"x": 5645,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.038.png",
+			"frame": {
+				"x": 5977,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.039.png",
+			"frame": {
+				"x": 6309,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.040.png",
+			"frame": {
+				"x": 1,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.041.png",
+			"frame": {
+				"x": 333,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.042.png",
+			"frame": {
+				"x": 665,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.043.png",
+			"frame": {
+				"x": 997,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.044.png",
+			"frame": {
+				"x": 1329,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.045.png",
+			"frame": {
+				"x": 1661,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.046.png",
+			"frame": {
+				"x": 1993,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.047.png",
+			"frame": {
+				"x": 2325,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.048.png",
+			"frame": {
+				"x": 2657,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.049.png",
+			"frame": {
+				"x": 2989,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.050.png",
+			"frame": {
+				"x": 3321,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.051.png",
+			"frame": {
+				"x": 3653,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.052.png",
+			"frame": {
+				"x": 3985,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.053.png",
+			"frame": {
+				"x": 4317,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.054.png",
+			"frame": {
+				"x": 4649,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.055.png",
+			"frame": {
+				"x": 4981,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.056.png",
+			"frame": {
+				"x": 5313,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.057.png",
+			"frame": {
+				"x": 5645,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.058.png",
+			"frame": {
+				"x": 5977,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.059.png",
+			"frame": {
+				"x": 6309,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.060.png",
+			"frame": {
+				"x": 1,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.061.png",
+			"frame": {
+				"x": 333,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.062.png",
+			"frame": {
+				"x": 665,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.063.png",
+			"frame": {
+				"x": 997,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.064.png",
+			"frame": {
+				"x": 1329,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.065.png",
+			"frame": {
+				"x": 1661,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.066.png",
+			"frame": {
+				"x": 1993,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.067.png",
+			"frame": {
+				"x": 2325,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.068.png",
+			"frame": {
+				"x": 2657,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.069.png",
+			"frame": {
+				"x": 2989,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.070.png",
+			"frame": {
+				"x": 3321,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.071.png",
+			"frame": {
+				"x": 3653,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.072.png",
+			"frame": {
+				"x": 3985,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.073.png",
+			"frame": {
+				"x": 4317,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.074.png",
+			"frame": {
+				"x": 4649,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.075.png",
+			"frame": {
+				"x": 4981,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.076.png",
+			"frame": {
+				"x": 5313,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.077.png",
+			"frame": {
+				"x": 5645,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.078.png",
+			"frame": {
+				"x": 5977,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.079.png",
+			"frame": {
+				"x": 6309,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.080.png",
+			"frame": {
+				"x": 1,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.081.png",
+			"frame": {
+				"x": 333,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.082.png",
+			"frame": {
+				"x": 665,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.083.png",
+			"frame": {
+				"x": 997,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.084.png",
+			"frame": {
+				"x": 1329,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.085.png",
+			"frame": {
+				"x": 1661,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.086.png",
+			"frame": {
+				"x": 1993,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.087.png",
+			"frame": {
+				"x": 2325,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.088.png",
+			"frame": {
+				"x": 2657,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.089.png",
+			"frame": {
+				"x": 2989,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.090.png",
+			"frame": {
+				"x": 3321,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.091.png",
+			"frame": {
+				"x": 3653,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.092.png",
+			"frame": {
+				"x": 3985,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.093.png",
+			"frame": {
+				"x": 4317,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.094.png",
+			"frame": {
+				"x": 4649,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.095.png",
+			"frame": {
+				"x": 4981,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.096.png",
+			"frame": {
+				"x": 5313,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.097.png",
+			"frame": {
+				"x": 5645,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.098.png",
+			"frame": {
+				"x": 5977,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.099.png",
+			"frame": {
+				"x": 6309,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.100.png",
+			"frame": {
+				"x": 1,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.101.png",
+			"frame": {
+				"x": 333,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.102.png",
+			"frame": {
+				"x": 665,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.103.png",
+			"frame": {
+				"x": 997,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.104.png",
+			"frame": {
+				"x": 1329,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.105.png",
+			"frame": {
+				"x": 1661,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.106.png",
+			"frame": {
+				"x": 1993,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.107.png",
+			"frame": {
+				"x": 2325,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.108.png",
+			"frame": {
+				"x": 2657,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.109.png",
+			"frame": {
+				"x": 2989,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.110.png",
+			"frame": {
+				"x": 3321,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.111.png",
+			"frame": {
+				"x": 3653,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.112.png",
+			"frame": {
+				"x": 3985,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.113.png",
+			"frame": {
+				"x": 4317,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.114.png",
+			"frame": {
+				"x": 4649,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.115.png",
+			"frame": {
+				"x": 4981,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.116.png",
+			"frame": {
+				"x": 5313,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.117.png",
+			"frame": {
+				"x": 5645,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.118.png",
+			"frame": {
+				"x": 5977,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.119.png",
+			"frame": {
+				"x": 6309,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.120.png",
+			"frame": {
+				"x": 1,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.121.png",
+			"frame": {
+				"x": 333,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.122.png",
+			"frame": {
+				"x": 665,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.123.png",
+			"frame": {
+				"x": 997,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.124.png",
+			"frame": {
+				"x": 1329,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.125.png",
+			"frame": {
+				"x": 1661,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.126.png",
+			"frame": {
+				"x": 1993,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.127.png",
+			"frame": {
+				"x": 2325,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.128.png",
+			"frame": {
+				"x": 2657,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.129.png",
+			"frame": {
+				"x": 2989,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.130.png",
+			"frame": {
+				"x": 3321,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.131.png",
+			"frame": {
+				"x": 3653,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.132.png",
+			"frame": {
+				"x": 3985,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.133.png",
+			"frame": {
+				"x": 4317,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.134.png",
+			"frame": {
+				"x": 4649,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.135.png",
+			"frame": {
+				"x": 4981,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.136.png",
+			"frame": {
+				"x": 5313,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.137.png",
+			"frame": {
+				"x": 5645,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.138.png",
+			"frame": {
+				"x": 5977,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.139.png",
+			"frame": {
+				"x": 6309,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.140.png",
+			"frame": {
+				"x": 1,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.141.png",
+			"frame": {
+				"x": 333,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.142.png",
+			"frame": {
+				"x": 665,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.143.png",
+			"frame": {
+				"x": 997,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.144.png",
+			"frame": {
+				"x": 1329,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.145.png",
+			"frame": {
+				"x": 1661,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.146.png",
+			"frame": {
+				"x": 1993,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.147.png",
+			"frame": {
+				"x": 2325,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.148.png",
+			"frame": {
+				"x": 2657,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.149.png",
+			"frame": {
+				"x": 2989,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.150.png",
+			"frame": {
+				"x": 3321,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.151.png",
+			"frame": {
+				"x": 3653,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.152.png",
+			"frame": {
+				"x": 3985,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.153.png",
+			"frame": {
+				"x": 4317,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.154.png",
+			"frame": {
+				"x": 4649,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.155.png",
+			"frame": {
+				"x": 4981,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.156.png",
+			"frame": {
+				"x": 5313,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.157.png",
+			"frame": {
+				"x": 5645,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.158.png",
+			"frame": {
+				"x": 5977,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.159.png",
+			"frame": {
+				"x": 6309,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.160.png",
+			"frame": {
+				"x": 1,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.161.png",
+			"frame": {
+				"x": 333,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.162.png",
+			"frame": {
+				"x": 665,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.163.png",
+			"frame": {
+				"x": 997,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.164.png",
+			"frame": {
+				"x": 1329,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.165.png",
+			"frame": {
+				"x": 1661,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.166.png",
+			"frame": {
+				"x": 1993,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.167.png",
+			"frame": {
+				"x": 2325,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.168.png",
+			"frame": {
+				"x": 2657,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.169.png",
+			"frame": {
+				"x": 2989,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.170.png",
+			"frame": {
+				"x": 3321,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.171.png",
+			"frame": {
+				"x": 3653,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.172.png",
+			"frame": {
+				"x": 3985,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.173.png",
+			"frame": {
+				"x": 4317,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.174.png",
+			"frame": {
+				"x": 4649,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.175.png",
+			"frame": {
+				"x": 4981,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.176.png",
+			"frame": {
+				"x": 5313,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.177.png",
+			"frame": {
+				"x": 5645,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.178.png",
+			"frame": {
+				"x": 5977,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.179.png",
+			"frame": {
+				"x": 6309,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.180.png",
+			"frame": {
+				"x": 1,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.181.png",
+			"frame": {
+				"x": 333,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.182.png",
+			"frame": {
+				"x": 665,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.183.png",
+			"frame": {
+				"x": 997,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.184.png",
+			"frame": {
+				"x": 1329,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.185.png",
+			"frame": {
+				"x": 1661,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.186.png",
+			"frame": {
+				"x": 1993,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.187.png",
+			"frame": {
+				"x": 2325,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.188.png",
+			"frame": {
+				"x": 2657,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.189.png",
+			"frame": {
+				"x": 2989,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.190.png",
+			"frame": {
+				"x": 3321,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.191.png",
+			"frame": {
+				"x": 3653,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.192.png",
+			"frame": {
+				"x": 3985,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.193.png",
+			"frame": {
+				"x": 4317,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.194.png",
+			"frame": {
+				"x": 4649,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.195.png",
+			"frame": {
+				"x": 4981,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.196.png",
+			"frame": {
+				"x": 5313,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.197.png",
+			"frame": {
+				"x": 5645,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.198.png",
+			"frame": {
+				"x": 5977,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.199.png",
+			"frame": {
+				"x": 6309,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.200.png",
+			"frame": {
+				"x": 1,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.201.png",
+			"frame": {
+				"x": 333,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.202.png",
+			"frame": {
+				"x": 665,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.203.png",
+			"frame": {
+				"x": 997,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.204.png",
+			"frame": {
+				"x": 1329,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.205.png",
+			"frame": {
+				"x": 1661,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.206.png",
+			"frame": {
+				"x": 1993,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.207.png",
+			"frame": {
+				"x": 2325,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.208.png",
+			"frame": {
+				"x": 2657,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.209.png",
+			"frame": {
+				"x": 2989,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.210.png",
+			"frame": {
+				"x": 3321,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.211.png",
+			"frame": {
+				"x": 3653,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.212.png",
+			"frame": {
+				"x": 3985,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.213.png",
+			"frame": {
+				"x": 4317,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.214.png",
+			"frame": {
+				"x": 4649,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.215.png",
+			"frame": {
+				"x": 4981,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.216.png",
+			"frame": {
+				"x": 5313,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.217.png",
+			"frame": {
+				"x": 5645,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.218.png",
+			"frame": {
+				"x": 5977,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.219.png",
+			"frame": {
+				"x": 6309,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.220.png",
+			"frame": {
+				"x": 1,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.221.png",
+			"frame": {
+				"x": 333,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.222.png",
+			"frame": {
+				"x": 665,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.223.png",
+			"frame": {
+				"x": 997,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.224.png",
+			"frame": {
+				"x": 1329,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.225.png",
+			"frame": {
+				"x": 1661,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.226.png",
+			"frame": {
+				"x": 1993,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.227.png",
+			"frame": {
+				"x": 2325,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.228.png",
+			"frame": {
+				"x": 2657,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.229.png",
+			"frame": {
+				"x": 2989,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.230.png",
+			"frame": {
+				"x": 3321,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.231.png",
+			"frame": {
+				"x": 3653,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.232.png",
+			"frame": {
+				"x": 3985,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.233.png",
+			"frame": {
+				"x": 4317,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.234.png",
+			"frame": {
+				"x": 4649,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.235.png",
+			"frame": {
+				"x": 4981,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.236.png",
+			"frame": {
+				"x": 5313,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.237.png",
+			"frame": {
+				"x": 5645,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.238.png",
+			"frame": {
+				"x": 5977,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.239.png",
+			"frame": {
+				"x": 6309,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.240.png",
+			"frame": {
+				"x": 6641,
+				"y": 1,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.241.png",
+			"frame": {
+				"x": 6641,
+				"y": 534,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.242.png",
+			"frame": {
+				"x": 6641,
+				"y": 1067,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.243.png",
+			"frame": {
+				"x": 6641,
+				"y": 1600,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.244.png",
+			"frame": {
+				"x": 6641,
+				"y": 2133,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.245.png",
+			"frame": {
+				"x": 6641,
+				"y": 2666,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.246.png",
+			"frame": {
+				"x": 6641,
+				"y": 3199,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.247.png",
+			"frame": {
+				"x": 6641,
+				"y": 3732,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.248.png",
+			"frame": {
+				"x": 6641,
+				"y": 4265,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.249.png",
+			"frame": {
+				"x": 6641,
+				"y": 4798,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.250.png",
+			"frame": {
+				"x": 6641,
+				"y": 5331,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.251.png",
+			"frame": {
+				"x": 6641,
+				"y": 5864,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.252.png",
+			"frame": {
+				"x": 1,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.253.png",
+			"frame": {
+				"x": 333,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.254.png",
+			"frame": {
+				"x": 665,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.255.png",
+			"frame": {
+				"x": 997,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.256.png",
+			"frame": {
+				"x": 1329,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.257.png",
+			"frame": {
+				"x": 1661,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.258.png",
+			"frame": {
+				"x": 1993,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.259.png",
+			"frame": {
+				"x": 2325,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.260.png",
+			"frame": {
+				"x": 2657,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.261.png",
+			"frame": {
+				"x": 2989,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.262.png",
+			"frame": {
+				"x": 3321,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.263.png",
+			"frame": {
+				"x": 3653,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.264.png",
+			"frame": {
+				"x": 3985,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.265.png",
+			"frame": {
+				"x": 4317,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.266.png",
+			"frame": {
+				"x": 4649,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.267.png",
+			"frame": {
+				"x": 4981,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.268.png",
+			"frame": {
+				"x": 5313,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		},
+		{
+			"filename": "Scene - elliottprogrammer-forward-side-puppet.269.png",
+			"frame": {
+				"x": 5645,
+				"y": 6397,
+				"w": 330,
+				"h": 531
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 330,
+				"h": 531
+			},
+			"sourceSize": {
+				"w": 330,
+				"h": 531
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 6972,
+			"h": 6929
+		},
+		"scale": "1"
+	}
+}

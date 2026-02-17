@@ -1407,7 +1407,7 @@
                     end: '+=3000',
                     scrub: true,
                     pin: true,
-                    ...(getDeviceType === 'mobile' || getDeviceType() === 'phone') && { anticipatePin: 1 },
+                    ...((getDeviceType() === 'mobile' || getDeviceType() === 'phone') && { anticipatePin: 1 }),
                     //markers: true,
                 },
             });
@@ -1429,7 +1429,10 @@
             const frameWidth = spritesheetWidth / frameCount;
 
             // Animate sprite walking across the globe
-            earthTimeline.to('.elliott-sprite', {
+            gsap.set('.elliott-sprite', { backgroundPosition: '0px 0px' });
+            earthTimeline.fromTo('.elliott-sprite', {
+                backgroundPosition: '0px 0px',
+            }, {
                 backgroundPosition: `${-(frameCount - 1) * frameWidth}px 0px`,
                 ease: `steps(${frameCount - 1})`,
                 duration: .03,
@@ -1859,7 +1862,7 @@
                 });
               };
               
-              document.querySelector('#contact .form-container form[name="elliottprogrammer-contact"]').addEventListener("submit", handleSubmit);
+              document.querySelector('#contact .form-container form[name="anees-contact"]').addEventListener("submit", handleSubmit);
         });
    
         function gitSliderStart() {   
