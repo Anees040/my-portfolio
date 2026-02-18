@@ -1,0 +1,183 @@
+﻿git : 23:13:27.891867 http.c:915              == Info: Couldn't find host 
+github.com in the .netrc file; using defaults
+At line:1 char:30
++ ... L_VERBOSE = "1"; git -C D:\my_portfolio push origin main 2>&1 | Out-F ...
++                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (23:13:27.891867... using defaults 
+   :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+23:13:27.904880 http.c:915              == Info: Host github.com:443 was 
+resolved.
+23:13:27.904880 http.c:915              == Info: IPv6: (none)
+23:13:27.904880 http.c:915              == Info: IPv4: 20.207.73.82
+23:13:27.904880 http.c:915              == Info:   Trying 20.207.73.82:443...
+23:13:28.195187 http.c:915              == Info: schannel: disabled automatic 
+use of client certificate
+23:13:28.200177 http.c:915              == Info: ALPN: curl offers http/1.1
+23:13:28.533270 http.c:915              == Info: ALPN: server accepted http/1.1
+23:13:28.533270 http.c:915              == Info: Established connection to 
+github.com (20.207.73.82 port 443) from 192.170.0.111 port 63795 
+23:13:28.533270 http.c:915              == Info: using HTTP/1.x
+23:13:28.533270 http.c:862              => Send header, 0000000203 bytes 
+(0x000000cb)
+23:13:28.533270 http.c:874              => Send header: GET 
+/Anees040/my-portfolio.git/info/refs?service=git-receive-pack HTTP/1.1
+23:13:28.533270 http.c:874              => Send header: Host: github.com
+23:13:28.533270 http.c:874              => Send header: User-Agent: 
+git/2.52.0.windows.1
+23:13:28.533270 http.c:874              => Send header: Accept: */*
+23:13:28.533270 http.c:874              => Send header: Accept-Encoding: 
+deflate, gzip, br, zstd
+23:13:28.533270 http.c:874              => Send header: Pragma: no-cache
+23:13:28.533270 http.c:874              => Send header:
+23:13:28.533270 http.c:915              == Info: Request completely sent off
+23:13:28.840817 http.c:915              == Info: schannel: remote party 
+requests renegotiation
+23:13:28.840817 http.c:915              == Info: schannel: renegotiating 
+SSL/TLS connection
+23:13:28.840817 http.c:915              == Info: schannel: SSL/TLS connection 
+renegotiated
+23:13:28.840817 http.c:915              == Info: schannel: remote party 
+requests renegotiation
+23:13:28.840817 http.c:915              == Info: schannel: renegotiating 
+SSL/TLS connection
+23:13:28.841828 http.c:915              == Info: schannel: SSL/TLS connection 
+renegotiated
+23:13:29.114041 http.c:862              <= Recv header, 0000000027 bytes 
+(0x0000001b)
+23:13:29.114041 http.c:874              <= Recv header: HTTP/1.1 401 
+Unauthorized
+23:13:29.114041 http.c:862              <= Recv header, 0000000026 bytes 
+(0x0000001a)
+23:13:29.114041 http.c:874              <= Recv header: Server: 
+GitHub-Babel/3.0
+23:13:29.114041 http.c:862              <= Recv header, 0000000054 bytes 
+(0x00000036)
+23:13:29.114041 http.c:874              <= Recv header: 
+Content-Security-Policy: default-src 'none'; sandbox
+23:13:29.114041 http.c:862              <= Recv header, 0000000041 bytes 
+(0x00000029)
+23:13:29.114041 http.c:874              <= Recv header: Content-Type: 
+text/plain; charset=UTF-8
+23:13:29.114041 http.c:862              <= Recv header, 0000000040 bytes 
+(0x00000028)
+23:13:29.114041 http.c:874              <= Recv header: www-authenticate: 
+Basic realm="GitHub"
+23:13:29.114041 http.c:862              <= Recv header, 0000000020 bytes 
+(0x00000014)
+23:13:29.114041 http.c:874              <= Recv header: Content-Length: 26
+23:13:29.114041 http.c:862              <= Recv header, 0000000037 bytes 
+(0x00000025)
+23:13:29.114041 http.c:874              <= Recv header: Date: Tue, 17 Feb 2026 
+18:13:28 GMT
+23:13:29.114041 http.c:862              <= Recv header, 0000000023 bytes 
+(0x00000017)
+23:13:29.114041 http.c:874              <= Recv header: X-Frame-Options: DENY
+23:13:29.114041 http.c:862              <= Recv header, 0000000073 bytes 
+(0x00000049)
+23:13:29.114041 http.c:874              <= Recv header: 
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+23:13:29.114041 http.c:862              <= Recv header, 0000000057 bytes 
+(0x00000039)
+23:13:29.114041 http.c:874              <= Recv header: X-GitHub-Request-Id: 
+F933:1A3697:257A01:2A73C8:6994AFC7
+23:13:29.114041 http.c:862              <= Recv header, 0000000002 bytes 
+(0x00000002)
+23:13:29.114041 http.c:874              <= Recv header:
+23:13:29.114041 http.c:915              == Info: Connection #0 to host 
+github.com:443 left intact
+23:13:29.492862 http.c:915              == Info: Reusing existing https: 
+connection with host github.com
+23:13:29.492862 http.c:915              == Info: Server auth using Basic with 
+user 'Anees040'
+23:13:29.493854 http.c:862              => Send header, 0000000294 bytes 
+(0x00000126)
+23:13:29.493854 http.c:874              => Send header: GET 
+/Anees040/my-portfolio.git/info/refs?service=git-receive-pack HTTP/1.1
+23:13:29.493854 http.c:874              => Send header: Host: github.com
+23:13:29.493854 http.c:874              => Send header: Authorization: Basic 
+<redacted>
+23:13:29.493854 http.c:874              => Send header: User-Agent: 
+git/2.52.0.windows.1
+23:13:29.493854 http.c:874              => Send header: Accept: */*
+23:13:29.493854 http.c:874              => Send header: Accept-Encoding: 
+deflate, gzip, br, zstd
+23:13:29.493854 http.c:874              => Send header: Pragma: no-cache
+23:13:29.493854 http.c:874              => Send header:
+23:13:29.493854 http.c:915              == Info: Request completely sent off
+23:13:30.065532 http.c:862              <= Recv header, 0000000017 bytes 
+(0x00000011)
+23:13:30.065532 http.c:874              <= Recv header: HTTP/1.1 200 OK
+23:13:30.065532 http.c:862              <= Recv header, 0000000026 bytes 
+(0x0000001a)
+23:13:30.065532 http.c:874              <= Recv header: Server: 
+GitHub-Babel/3.0
+23:13:30.065532 http.c:862              <= Recv header, 0000000060 bytes 
+(0x0000003c)
+23:13:30.065532 http.c:874              <= Recv header: Content-Type: 
+application/x-git-receive-pack-advertisement
+23:13:30.065532 http.c:862              <= Recv header, 0000000054 bytes 
+(0x00000036)
+23:13:30.065532 http.c:874              <= Recv header: 
+Content-Security-Policy: default-src 'none'; sandbox
+23:13:30.065532 http.c:862              <= Recv header, 0000000040 bytes 
+(0x00000028)
+23:13:30.065532 http.c:874              <= Recv header: expires: Fri, 01 Jan 
+1980 00:00:00 GMT
+23:13:30.065532 http.c:862              <= Recv header, 0000000018 bytes 
+(0x00000012)
+23:13:30.065532 http.c:874              <= Recv header: pragma: no-cache
+23:13:30.065532 http.c:862              <= Recv header, 0000000053 bytes 
+(0x00000035)
+23:13:30.065532 http.c:874              <= Recv header: Cache-Control: 
+no-cache, max-age=0, must-revalidate
+23:13:30.065532 http.c:862              <= Recv header, 0000000023 bytes 
+(0x00000017)
+23:13:30.065532 http.c:874              <= Recv header: Vary: Accept-Encoding
+23:13:30.065532 http.c:862              <= Recv header, 0000000028 bytes 
+(0x0000001c)
+23:13:30.065532 http.c:874              <= Recv header: Transfer-Encoding: 
+chunked
+23:13:30.065532 http.c:862              <= Recv header, 0000000037 bytes 
+(0x00000025)
+23:13:30.065532 http.c:874              <= Recv header: Date: Tue, 17 Feb 2026 
+18:13:29 GMT
+23:13:30.065532 http.c:862              <= Recv header, 0000000023 bytes 
+(0x00000017)
+23:13:30.065532 http.c:874              <= Recv header: X-Frame-Options: DENY
+23:13:30.065532 http.c:862              <= Recv header, 0000000073 bytes 
+(0x00000049)
+23:13:30.065532 http.c:874              <= Recv header: 
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+23:13:30.065532 http.c:862              <= Recv header, 0000000057 bytes 
+(0x00000039)
+23:13:30.065532 http.c:874              <= Recv header: X-GitHub-Request-Id: 
+F933:1A3697:257AB8:2A7497:6994AFC8
+23:13:30.065532 http.c:862              <= Recv header, 0000000002 bytes 
+(0x00000002)
+23:13:30.065532 http.c:874              <= Recv header:
+23:13:30.065532 http.c:915              == Info: Connection #0 to host 
+github.com:443 left intact
+23:13:31.329540 http.c:915              == Info: Reusing existing https: 
+connection with host github.com
+23:13:31.329540 http.c:915              == Info: Server auth using Basic with 
+user 'Anees040'
+23:13:31.329540 http.c:862              => Send header, 0000000373 bytes 
+(0x00000175)
+23:13:31.329540 http.c:874              => Send header: POST 
+/Anees040/my-portfolio.git/git-receive-pack HTTP/1.1
+23:13:31.329540 http.c:874              => Send header: Host: github.com
+23:13:31.329540 http.c:874              => Send header: Authorization: Basic 
+<redacted>
+23:13:31.329540 http.c:874              => Send header: User-Agent: 
+git/2.52.0.windows.1
+23:13:31.329540 http.c:874              => Send header: Accept-Encoding: 
+deflate, gzip, br, zstd
+23:13:31.329540 http.c:874              => Send header: Content-Type: 
+application/x-git-receive-pack-request
+23:13:31.329540 http.c:874              => Send header: Accept: 
+application/x-git-receive-pack-result
+23:13:31.329540 http.c:874              => Send header: Content-Length: 
+23512928
+23:13:31.329540 http.c:874              => Send header:
